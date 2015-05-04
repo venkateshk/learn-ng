@@ -1,3 +1,5 @@
+'use strict';
+
 var graphApp = angular.module('graphApp', ['smart-table']);
 
 graphApp.controller('GraphCtrl', function ($scope) {
